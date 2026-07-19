@@ -232,5 +232,3 @@ Computer Science Engineering Student
 
 Aspiring Software Developer
 
-GitHub:
-https://github.com/riturajmishraa
