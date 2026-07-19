@@ -226,7 +226,7 @@ This version includes:
 
 ## 👨‍💻 Author
 
-**Rituraj Mishra**
+**Asmi Pandey**
 
 Computer Science Engineering Student
 
